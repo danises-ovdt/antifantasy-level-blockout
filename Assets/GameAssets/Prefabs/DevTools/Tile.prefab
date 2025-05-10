@@ -238,7 +238,7 @@ MonoBehaviour:
   canEnemiesSeeThroughIt: 1
   nonAccessibleTiles: []
   nonAccessibleDirections: 
-  hideEditModeTileOnPlay: 0
+  hideEditModeTileOnPlay: 1
 --- !u!114 &377297818648241385
 MonoBehaviour:
   m_ObjectHideFlags: 0
